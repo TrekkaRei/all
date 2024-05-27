@@ -1,4 +1,4 @@
-A script that git clones all but "bashrc" from my github
+A script that git clones all my repos
 
 chmod +x all.sh
 
