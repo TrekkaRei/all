@@ -1,5 +1,6 @@
 #!/bin/bash
 
+git clone https://github.com/TrekkaRei/cinnamenu
 git clone https://github.com/TrekkaRei/bashrc
 git clone https://github.com/TrekkaRei/wallpaper
 git clone https://github.com/TrekkaRei/cinnamon_glitch
