@@ -10,8 +10,9 @@ git clone https://github.com/TrekkaRei/openrgb
 git clone https://github.com/TrekkaRei/flameshot
 git clone https://github.com/TrekkaRei/firefox
 git clone https://github.com/TrekkaRei/theme
-git clone https://github.com/TrekkaRei/mpvclone
+git clone https://github.com/TrekkaRei/mpvconf
 git clone https://github.com/TrekkaRei/scripts
 git clone https://github.com/TrekkaRei/konsole
 git clone https://github.com/TrekkaRei/fastfetch
 git clone https://github.com/TrekkaRei/mocp
+git clone https://github.com/TrekkaRei/TVP
