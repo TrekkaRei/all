@@ -18,3 +18,4 @@ git clone https://github.com/TrekkaRei/.hw-osd
 git clone https://github.com/TrekkaRei/TVP
 git clone https://github.com/TrekkaRei/time
 git clone https://github.com/TrekkaRei/githelp
+git clone https://github.com/TrekkaRei/shortcuts
